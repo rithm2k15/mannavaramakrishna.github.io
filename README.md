@@ -1,3 +1,3 @@
-# mannavaramakrishna.github.io
+mannavaramakrishna.github.io
 Optimastrs Website
 
