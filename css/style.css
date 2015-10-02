@@ -48,7 +48,7 @@ body {
 }
 .logo a h1
 {
-font-family: 'Mr Dafoe', cursive;
+font-family: Consolas,monaco,monospace;
 font-size:7em;
 color: #FFF;
 
