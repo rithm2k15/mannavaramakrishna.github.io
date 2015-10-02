@@ -46,13 +46,10 @@ body {
 {
 	display: inline-block;
 }
-.logo a h1
+.logo a img
 {
-font-family: Consolas,monaco,monospace;
-font-size:4em;
-color: #FFF;
-
-
+width : 500px;
+height : 100px;
 }
 .content p
 {
